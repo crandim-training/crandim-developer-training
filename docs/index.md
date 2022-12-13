@@ -62,4 +62,6 @@ CDT用の`IAM認証情報`を、`Amazon Web Services Sign-in`画面（ [`https:/
 
 成功すると、`Cloud9`の画面が表示されます。
 
-Cloud9については、[Cloud9の使い方](./cloud9/)を参照してください。
+## 次のステップ
+
+次のステップ [Cloud9の使い方](./cloud9/) で、Cloud9の基本次項について説明します。

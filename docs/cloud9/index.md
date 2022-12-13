@@ -54,6 +54,6 @@ cloud9のターミナルについて更に詳しく知りたい場合は、[こ�
 
 その他、 Cloud9の画面について更に知りたい場合は、[AWS Cloud9 IDEのツアー](https://docs.aws.amazon.com/ja_jp/cloud9/latest/user-guide/tour-ide.html) を参照してください。
 
-### Crandim Developer Trainingの使い方
+## 次のステップ
 
-Cloud9についておおよそ理解できたら、[研修生向けマニュアル Crandim Developer Trainingの使い方](./../cdt/)を参照してください。
+Cloud9についておおよそ理解できたら、[Crandim Developer Trainingの使い方](./../cdt/)を参照してください。
