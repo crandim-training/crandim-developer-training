@@ -1,4 +1,4 @@
-# Crandim Developer Training 研修生向けマニュアル
+# 研修生向けマニュアル トップページ
 
 ## Crandim Developer Trainingとは
 
