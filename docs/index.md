@@ -33,11 +33,9 @@ CDT用の`IAM認証情報`は、主に株式会社クランディムの新入社
 
 CDTを使用するには、CDT用の`IAM認証情報`を使用して、`AWSのコンソール`にログインする必要があります。
 
-:::note info
-`AWSのコンソール`とは、`Amazon`社が提供する`Amazon Web Services`というクラウドサービスの設定画面です。
-:::
+※ `AWSのコンソール`とは、`Amazon`社が提供する`Amazon Web Services`というクラウドサービスの設定画面です。
 
-CDT用の`IAM認証情報`を、`Amazon Web Services Sign-in`画面（ [`https://console.aws.amazon.com/console/home`](https://console.aws.amazon.com/console/home) ）で入力します。
+CDT用の`IAM認証情報`を、`Amazon Web Services Sign-in`画面（ https://console.aws.amazon.com/console/home ）で入力します。
 
 <img width="200" src="img/aws-sign-in.png"/>
 
@@ -50,7 +48,7 @@ CDT用の`IAM認証情報`を、`Amazon Web Services Sign-in`画面（ [`https:/
 ## CDTの画面を開く
 
 ログインが成功した状態で、画面上部にある`検索`ボックスに、`Cloud9`と入力すると、サービス一覧に`Cloud9`が表示される（下画像）ので、リンクをクリックします。 または、下記リンクを開きます。
-* [`https://us-east-1.console.aws.amazon.com/cloud9control/home?region=us-east-1#/`](https://us-east-1.console.aws.amazon.com/cloud9control/home?region=us-east-1#/)
+* https://us-east-1.console.aws.amazon.com/cloud9control/home?region=us-east-1#/
 
 <img width="400" src="img/awsconsole-search-cloud9.png"/>
 
