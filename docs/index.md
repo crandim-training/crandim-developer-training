@@ -50,7 +50,7 @@ CDT用の`IAM認証情報`を、[Amazon Web Services Sign-in画面](https://cons
 ## CDTの画面を開く
 
 ログインが成功した状態で、下記リンクを開きます。
-* [AWS Console Cloud9 Home](https://us-east-1.console.aws.amazon.com/cloud9control/home?region=us-east-1#/)
+* [AWS Console Cloud9 Home (us-east-1)](https://us-east-1.console.aws.amazon.com/cloud9control/home?region=us-east-1#/)
   
 一覧画面（下画像）が表示されるので、`Name`列に自分のユーザIDが入っている項目の`Open`リンクをクリックします。
 
